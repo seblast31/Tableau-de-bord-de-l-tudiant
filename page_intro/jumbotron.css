@@ -1,0 +1,23 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+.jumbotron {
+    background-image: url("../sources/p1.gif");
+    background-color: #17234E;
+    margin-bottom: 0;`enter code here`
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
+
